@@ -1,0 +1,182 @@
+[
+    {
+        "id":1,
+        "season":1,
+        "chapter":1,
+        "name":"La muerte tiene sombra",
+        "url":"https://drive.google.com/file/d/1RT9qcN_XdyHgxdElGmKNYHH6HK0ZvK9y/preview"
+    },
+    {
+        "id":2,
+        "season":1,
+        "chapter":2,
+        "name":"Nunca conocí al muerto",
+        "url":"https://drive.google.com/file/d/1CD7Mh-ZnHoGUUk-Bf0P9hJL5mt7ebmta/preview"
+    },
+    {
+        "id":3,
+        "season":1,
+        "chapter":3,
+        "name":"Inteligencia mejor que asesinato",
+        "url":"https://drive.google.com/file/d/1X3O3kQs751jZ9I3tKQwAZutsR-3XplEk/preview"
+    },
+    {
+        "id":4,
+        "season":1,
+        "chapter":4,
+        "name":"Chitty Chitty muerte bang",
+        "url":"https://drive.google.com/file/d/1SkX7-dW12gpDe2zJ7rD1nkJfh6Y7ZROz/preview"
+    },
+    {
+        "id":5,
+        "season":1,
+        "chapter":5,
+        "name":"El héroe de al lado",
+        "url":"https://drive.google.com/file/d/1f1-wscOwvvZvRDZShcF61uNKklG5ujVx/preview"
+    },
+    {
+        "id":6,
+        "season":1,
+        "chapter":6,
+        "name":"El dibujo del hijo",
+        "url":"https://drive.google.com/file/d/1js-IV2atv8HqD8kiJAjmYQ_DdnAbbHjY/preview"
+    },
+    {
+        "id":7,
+        "season":1,
+        "chapter":7,
+        "name":"Brian: retrato de un perro",
+        "url":"https://drive.google.com/file/d/1pXK7UOrLs_9IthOZv99MaOdIsCvltb4g/preview"
+    },
+    {
+        "id":8,
+        "season":2,
+        "chapter":1,
+        "name":"Peter come caviar",
+        "url":"https://drive.google.com/file/d/1yXMRchl8kuMJOF49vsBVIeqtB-cn_7za/preview"
+    },
+    {
+        "id":9,
+        "season":2,
+        "chapter":2,
+        "name":"Santa hostia",
+        "url":"https://drive.google.com/file/d/15Z-wGB81yPoVzM1iEEIg3vFMfT5g1d-1/preview"
+    },
+    {
+        "id":10,
+        "season":2,
+        "chapter":3,
+        "name":"El bum",
+        "url":"https://drive.google.com/file/d/1aZcGUtFrFTfDUZP5dza0QmIMG82pHNXP/preview"
+    },
+    {
+        "id":11,
+        "season":2,
+        "chapter":4,
+        "name":"Brian enamorado",
+        "url":"https://drive.google.com/file/d/1fLvR2arWTq3gl83O06Rwh8qTe8DAbUsY/preview"
+    },
+    {
+        "id":12,
+        "season":2,
+        "chapter":5,
+        "name":"Amarás tu trofeo",
+        "url":"https://drive.google.com/file/d/19ODur766t65vOvGlw1-xZwLvSsFtlENG/preview"
+    },    {
+        "id":13,
+        "season":2,
+        "chapter":6,
+        "name":"La muerte no mola",
+        "url":"https://drive.google.com/file/d/1KZ39Pblm3Bjkau0gemA66t8i2uMR0nIh/preview"
+    },    {
+        "id":14,
+        "season":2,
+        "chapter":7,
+        "name":"El rey ha muerto",
+        "url":"https://drive.google.com/file/d/1fOP1Z7xu1HwBMTa0CQ9fTV9QsajigIk3/preview"
+    },    {
+        "id":15,
+        "season":2,
+        "chapter":8,
+        "name":"Soy Peter, oídme rugir",
+        "url":"https://drive.google.com/file/d/1ah5x_6DEdNmHyQjqjwTWA2KpHXKmvwBb/preview"
+    },    {
+        "id":16,
+        "season":2,
+        "chapter":9,
+        "name":"Si me estoy muriendo, estoy mintiendo",
+        "url":"https://drive.google.com/file/d/1YmhKBxfCDhahufwoKjaKW4CqWFe7l9dn/preview"
+    },    {
+        "id":17,
+        "season":2,
+        "chapter":10,
+        "name":"Los corredores",
+        "url":"https://drive.google.com/file/d/1LdHhViiwLcG_1pmiR3rjpLOVERF0l6hF/preview"
+    },    {
+        "id":18,
+        "season":2,
+        "chapter":11,
+        "name":"Una imagen vale más que mil pavos",
+        "url":"https://drive.google.com/file/d/1tf5AD9I0hySfZMwIoUM6AAGat1cH995S/preview"
+    },    {
+        "id":19,
+        "season":2,
+        "chapter":12,
+        "name":"Los 15 minutos de la vergüenza",
+        "url":"https://drive.google.com/file/d/1Hf6NkpTMJSOwjps0bi19PFyqkY5DBO_O/preview"
+    },    {
+        "id":20,
+        "season":2,
+        "chapter":13,
+        "name":"La carretera hacia Rhode Island",
+        "url":"https://drive.google.com/file/d/1vem01DlGqblLMU2Cq1PhxipGW1mZwqRw/preview"
+    },    {
+        "id":21,
+        "season":2,
+        "chapter":14,
+        "name":"Vamos al hop",
+        "url":"https://drive.google.com/file/d/1N2tfa61SbW3rzbJte_QUzc3cqqPEjQP4/preview"
+    },    {
+        "id":22,
+        "season":2,
+        "chapter":15,
+        "name":"!Maldita sea Janet¡",
+        "url":"https://drive.google.com/file/d/1sTZyJqyt2YeXQaICJ9i-EgkIU8GZKBri/preview"
+    },    {
+        "id":23,
+        "season":2,
+        "chapter":16,
+        "name":"Algo pasa con Julie",
+        "url":"https://drive.google.com/file/d/1m4ShB6MSMXyCdKt_rRe8TizHHRWZ64TP/preview"
+    },    {
+        "id":24,
+        "season":2,
+        "chapter":17,
+        "name":"Es tan sexy como gordo",
+        "url":"https://drive.google.com/file/d/1nWAkkxOOsAMvapeSvS4eeLihyt2pCXvn/preview"
+    },    {
+        "id":25,
+        "season":2,
+        "chapter":18,
+        "name":"E. Peterebus Unum",
+        "url":"https://drive.google.com/file/d/1x1NaHbAlBdtOM7ShBlUmmnrgK4fJgADx/preview"
+    },    {
+        "id":26,
+        "season":2,
+        "chapter":19,
+        "name":"La historia de la primera página",
+        "url":"https://drive.google.com/file/d/15wJ5QlTyhBJHuDgDBuNBn_1_wLHbSfO0/preview"
+    },    {
+        "id":27,
+        "season":2,
+        "chapter":20,
+        "name":"Talento desperdiciado",
+        "url":"https://drive.google.com/file/d/1tJLvKutmCP83L6wCuagp7wT1ngtfvPSY/preview"
+    },    {
+        "id":28,
+        "season":2,
+        "chapter":21,
+        "name":"El padre fundador",
+        "url":"https://drive.google.com/file/d/1RkGfR_ugT-HuVPSpFC-G-eJWRcBBVR6U/preview"
+    }
+]
