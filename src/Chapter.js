@@ -20,7 +20,7 @@ console.warn(params.id);
             
          <h1> {cadena.name} </h1>
          <h3> Temporada {cadena.season} capítulo {cadena.chapter}</h3>
-         <iframe src={cadena.url} className="Movie" width="640" height="480" allow="autoplay"></iframe>
+         <iframe src={cadena.url} className="Movie" width="640" height="480" allow="autoplay" allowFullScreen></iframe>
         
          </>
         })[params.id]}
