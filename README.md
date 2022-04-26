@@ -68,3 +68,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### Solución Page Not Found - Netlify
+
+He atravesado por un problema con la plataforma Netfilfy a la hora de subir mi proyecto en producción.
+![alt text](https://i.imgur.com/9DoAOO9.png)
+Este error lo he solucionado creando dentro del **folder public** el fichero **_redirects**, dentro de este fichero coloqué :
+```
+/* /index.html 200
+```
+Con esto basta... Para aclararlo mejor pueden ver el [vídeo](https://www.youtube.com/watch?v=554g-fSfklY&ab_channel=JuanJoseOrtiz) en Youtube por donde me orienté.
