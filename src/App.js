@@ -8,6 +8,9 @@ import Main from "./Main.js";
 import Random from "./Random.js";
 import Chapter from "./Chapter.js";
 import Chapters from './data/chapters.json';
+// https://www.npmjs.com/package/react-share
+// npm install react-share --save
+
 
 function App() {
 
